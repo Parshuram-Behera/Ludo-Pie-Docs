@@ -100,13 +100,13 @@ LudoPie is a real-time multiplayer Ludo game built with Kotlin Multiplatform, ta
     <td align="center"><img width="1600" height="900" alt="Home" src="https://github.com/user-attachments/assets/aa2c209f-fe0d-4678-9f67-77c7dad90607" /><br/><sub><b>Home / Lobby</b></sub></td>
     <td align="center"><img width="1600" height="900" alt="Loby" src="https://github.com/user-attachments/assets/10e7894c-295d-4b22-9d36-b4a1b28681bb" /><br/><sub><b>Matchmaking</b></sub></td>
     <td align="center"><img width="1600" height="900" alt="Searching" src="https://github.com/user-attachments/assets/8b80abcf-fde9-4222-8177-54afb08630c2" /><br/><sub><b>Game Board</b></sub></td>
-    <td align="center"><img src="https://your-image-url.com/screen4.png" width="200"/><br/><sub><b>Dice Roll</b></sub></td>
+    <td align="center"><img width="1600" height="900" alt="Room Creation" src="https://github.com/user-attachments/assets/fce92698-963e-4091-a338-45320c806268" /><br/><sub><b>Dice Roll</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://your-image-url.com/screen5.png" width="200"/><br/><sub><b>Token Move</b></sub></td>
-    <td align="center"><img src="https://your-image-url.com/screen6.png" width="200"/><br/><sub><b>4-Player View</b></sub></td>
-    <td align="center"><img src="https://your-image-url.com/screen7.png" width="200"/><br/><sub><b>Result Screen</b></sub></td>
-    <td align="center"><img src="https://your-image-url.com/screen8.png" width="200"/><br/><sub><b>Rematch / Exit</b></sub></td>
+    <td align="center"><img width="1600" height="900" alt="Waiting Room" src="https://github.com/user-attachments/assets/720a66ab-6e10-444f-9242-6d2948aa7fb7" /><br/><sub><b>Token Move</b></sub></td>
+    <td align="center"><img width="1600" height="900" alt="Invite Join" src="https://github.com/user-attachments/assets/d326960d-cd05-430b-83fb-1b0a4c60013b" /><br/><sub><b>4-Player View</b></sub></td>
+    <td align="center"><img width="1600" height="900" alt="Game Board" src="https://github.com/user-attachments/assets/a7adda14-0261-45c1-b2b1-b6c0561ad863" /><br/><sub><b>Result Screen</b></sub></td>
+    <td align="center"><img width="1600" height="900" alt="Dice Roll" src="https://github.com/user-attachments/assets/c569584c-255c-4ef8-83d9-fa6d41ce4b3a" /><br/><sub><b>Rematch / Exit</b></sub></td>
   </tr>
 </table>
 
