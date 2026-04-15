@@ -98,8 +98,8 @@ LudoPie is a real-time multiplayer Ludo game built with Kotlin Multiplatform, ta
 <table>
   <tr>
     <td align="center"><img width="1600" height="900" alt="Home" src="https://github.com/user-attachments/assets/aa2c209f-fe0d-4678-9f67-77c7dad90607" /><br/><sub><b>Home / Lobby</b></sub></td>
-    <td align="center"><img src="https://your-image-url.com/screen2.png" width="200"/><br/><sub><b>Matchmaking</b></sub></td>
-    <td align="center"><img src="https://your-image-url.com/screen3.png" width="200"/><br/><sub><b>Game Board</b></sub></td>
+    <td align="center"><img width="1600" height="900" alt="Loby" src="https://github.com/user-attachments/assets/10e7894c-295d-4b22-9d36-b4a1b28681bb" /><br/><sub><b>Matchmaking</b></sub></td>
+    <td align="center"><img width="1600" height="900" alt="Searching" src="https://github.com/user-attachments/assets/8b80abcf-fde9-4222-8177-54afb08630c2" /><br/><sub><b>Game Board</b></sub></td>
     <td align="center"><img src="https://your-image-url.com/screen4.png" width="200"/><br/><sub><b>Dice Roll</b></sub></td>
   </tr>
   <tr>
