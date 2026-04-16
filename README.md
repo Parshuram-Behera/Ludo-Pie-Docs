@@ -111,3 +111,24 @@ LudoPie is a real-time multiplayer Ludo game built with Kotlin Multiplatform, ta
 </table>
 
 </div>
+
+## Android App Screens
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><img width="576" height="1280" alt="Home" src="https://github.com/user-attachments/assets/da47a577-8ec4-48f2-84a4-50a0c55d82b5" /><br/><sub><b>Home</b></sub></td>
+    <td align="center"><img width="576" height="1280" alt="Lobby" src="https://github.com/user-attachments/assets/c2a3b5e6-acbd-48f3-8b42-0749e514772c" /><br/><sub><b>Lobby</b></sub></td>
+    <td align="center"><img width="576" height="1280" alt="Matchmaking" src="https://github.com/user-attachments/assets/8fd143ac-9600-494c-8dc7-d1dbc9874814" /><br/><sub><b>Matchmaking</b></sub></td>
+    <td align="center"><img width="576" height="1280" alt="Room Creation" src="https://github.com/user-attachments/assets/b463fa9b-35e1-4e4b-bfd0-7f39bf26cf2a" /><br/><sub><b>Room Creation</b></sub></td>
+  </tr>
+  <tr>
+    
+  
+  <td align="center"><img width="576" height="1280" alt="Game Board" src="https://github.com/user-attachments/assets/ea72ffce-b181-4d43-8c7d-c64ed161279a" /><br/><sub><b>Game Board</b></sub></td>
+    <td align="center"><img width="576" height="1280" alt="Dice Roll" src="https://github.com/user-attachments/assets/4087612f-4723-4524-bc6c-313fcfffe03a" /><br/><sub><b>Dice Rol</b></sub></td>
+  </tr>
+</table>
+
+</div>
