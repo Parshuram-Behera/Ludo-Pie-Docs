@@ -1,5 +1,5 @@
 # LudoPie – Multiplayer Ludo Game
-### *Feature Introduction & Product Overview*
+### *Project Overview*
 ---
 
 ## Overview
